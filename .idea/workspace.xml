@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99544172-7442-4bcc-b178-452e51d891fd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/music/base.html" afterPath="$PROJECT_DIR$/music/templates/music/base.html" />
-    </list>
+    <list default="true" id="99544172-7442-4bcc-b178-452e51d891fd" name="Default" comment="" />
     <ignored path="website.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -110,8 +108,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/music/templates/music/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+            <state relative-caret-position="132">
+              <caret line="6" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -325,7 +323,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorware" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fulltest" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -1004,8 +1002,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/music/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="7" />
           <folding />
         </state>
       </provider>
